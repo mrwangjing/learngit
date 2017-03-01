@@ -7,4 +7,7 @@ Creating a new branch is quick and simple.
 Creating merge.
 Creating branch dev1.
 Creating branch dev11.
-Creating testothercomputer ssss
+
+first learngit dev  modify
+
+Creating testothercomputer  ssss
